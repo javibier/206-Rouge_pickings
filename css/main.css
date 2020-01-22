@@ -166,3 +166,54 @@ footer span {
 	color: #77a466;
 	font-size: 14px;
 }
+
+/*---------- TABLET ----------*/
+/* Change the background colors below */
+
+@media (min-width: 768px) {
+  header {
+    background-color: ;
+  }
+
+  #column-1 {
+    background-color: ;
+  }
+
+  #column-2 {
+    background-color: ;
+  }
+
+  #column-3 {
+    background-color: ;
+  }
+
+  footer {
+    background-color: ;
+  }
+  
+}
+
+
+/*---------- Desktops ----------*/
+@media (min-width: 1200px) {
+  header {
+    background-color: ;
+  }
+
+  #column-1 {
+    background-color: ;
+  }
+
+  #column-2 {
+    background-color: ;
+  }
+
+  #column-3 {
+    background-color: ;
+  }
+
+  footer {
+    background-color: ;
+  }
+   
+}
