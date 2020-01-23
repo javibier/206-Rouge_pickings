@@ -5,6 +5,13 @@
 
 body {
 	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+	
+}
+
+html {
 	font-size: 16px;
 }
 
