@@ -17,7 +17,7 @@ html {
 
 .container{
 	width: 90%;
-	max-width: 960px;
+	max-width: 1200px;
 	display: flex;
     justify-content: center;
     align-items: center;
