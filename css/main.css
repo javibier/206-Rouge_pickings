@@ -177,7 +177,7 @@ footer span {
 /*---------- TABLET ----------*/
 /* Change the background colors below */
 
-@media (min-width: 768px) {
+@media all and (min-width: 768px) {
   header {
     background-color: ;
   }
@@ -202,7 +202,7 @@ footer span {
 
 
 /*---------- Desktops ----------*/
-@media (min-width: 1200px) {
+@media all and (min-width: 1200px) {
   header {
     background-color: ;
   }
